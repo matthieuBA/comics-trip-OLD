@@ -67,3 +67,8 @@ gem "devise", "~> 4.7"
 
 
 gem "table_print", "~> 1.5"
+
+# bootstrap
+gem 'bootstrap-sass'
+
+gem 'jquery-rails'
